@@ -1,0 +1,21 @@
+            logica respostaCorreta = falso;
+            caractere senha = "";
+            caractere nome = "";
+
+            enquanto (respostaCorreta == falso)
+            {
+                escreva("Insira seu nome");
+                nome = leia();
+
+                escreva("Insira sua senha");
+                senha = leia();
+
+                se (senha != nome)
+                {
+                    escreva("Sua senha e nome são validas");
+                    respostaCorreta = verdadeiro;
+                }
+                se não
+                {
+                    escreva("Sua senha e nome são iguais faça novamente");
+                }

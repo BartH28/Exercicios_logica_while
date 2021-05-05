@@ -1,0 +1,20 @@
+
+            inteiro a = 0;
+            inteiro b = 1;
+
+            escreva(a);
+            escreva(b);
+
+            para (inteiro i = 0; i <= 13 ; i++)
+            {
+                inteiro alg1 = a;
+                inteiro alg2 = b;
+
+                inteiro conta =  alg1 + alg2;
+                
+                escreva(conta);
+
+                alg1 = a = b;
+
+                alg2 = b = conta;   
+            }

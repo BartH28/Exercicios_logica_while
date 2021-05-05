@@ -1,0 +1,16 @@
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.exe
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.deps.json
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.runtimeconfig.json
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.runtimeconfig.dev.json
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.dll
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\ref\exercicio 2.dll
+D:\Back-end senai\Lista de exercicios\exercicio 2\bin\Debug\net5.0\exercicio 2.pdb
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.csprojAssemblyReference.cache
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.AssemblyInfoInputs.cache
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.AssemblyInfo.cs
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.dll
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\ref\exercicio 2.dll
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.pdb
+D:\Back-end senai\Lista de exercicios\exercicio 2\obj\Debug\net5.0\exercicio 2.genruntimeconfig.cache

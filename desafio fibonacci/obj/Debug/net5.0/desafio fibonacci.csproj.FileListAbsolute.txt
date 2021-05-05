@@ -1,0 +1,16 @@
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.exe
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.deps.json
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.runtimeconfig.json
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.runtimeconfig.dev.json
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.dll
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\ref\desafio fibonacci.dll
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\bin\Debug\net5.0\desafio fibonacci.pdb
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.csprojAssemblyReference.cache
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.AssemblyInfoInputs.cache
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.AssemblyInfo.cs
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.dll
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\ref\desafio fibonacci.dll
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.pdb
+D:\Back-end senai\Lista de exercicios\desafio fibonacci\obj\Debug\net5.0\desafio fibonacci.genruntimeconfig.cache

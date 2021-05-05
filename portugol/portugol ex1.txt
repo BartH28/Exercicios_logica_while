@@ -1,0 +1,16 @@
+            
+            logico respostaCorreta = falso;
+            enquanto (respostaCorreta == falso)
+            {
+                Escreva("Insira uma nota de 0 a 10");
+                nota = leia()
+
+                se (nota >= 0 e nota <= 10 )
+                {
+                    Escreva("Sua nota é Valida");
+                    respostaCorreta = verdadeiro;
+                }
+                se não
+                {   
+                    Escreva("Sua nota não é valida");
+                }

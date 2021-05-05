@@ -1,0 +1,30 @@
+logica respostaCorreta = falso;
+            caractere nome
+            inteiro Idade
+            Real Salario
+            caractere estadoCivil
+
+
+            enquanto (respostaCorreta == falso)
+            {
+                escreva("Insira seu Nome");
+                nome = ler();
+                escreva("Insira seu Idade");
+                Idade = ler();
+                escreva("Insira seu Salario");
+                Salario = ler();
+                escreva("Insira seu Estado Civil  's' para solteiro(a), 'c' para casado(a), 'v' para viuvo(a), 'd' para divorcia(a)");
+                estadoCivil = ler();
+
+                se (nome != "" e Idade >= 0 e Idade <= 150 e Salario >= 0 e estadoCivil == "s" ou estadoCivil == "c" ou estadoCivil == "v" ou estadoCivil == "d")
+                {
+                    escreva("Seu cadastro esta valido");
+                    respostaCorreta = verdadeiro;
+                }
+                se não
+                {
+                    
+                    escreva("Seu cadastro esta invalido");
+                    
+                }
+            }
